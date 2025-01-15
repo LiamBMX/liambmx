@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, my name is Liam I am a 13 year old developer and entrepreneur. I am the CEO at @MindBloomApp and @ArchevexMC, and currently studying for Business Administration aswell as Market Analysis. I enjoy studying the law aswell as learning more about the depths of technology and coding.
+
+- My current project is MindBloom a dashboard to help neurodivergent minds bloom with productivity by gamifying task management
+- You can reach me on discord @limbolimn
+- My pronouns are He/Him
