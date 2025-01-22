@@ -40,23 +40,6 @@ Hello, my name is Liam. I am a developer and entrepreneur. I am the CEO at **@Mi
 
 ---
 
-## 🛠️ My Skills
-
-| **Languages**         | **Frameworks & Libraries** | **Tools & Platforms**     |
-|------------------------|----------------------------|---------------------------|
-| JavaScript (ES6+)      | React.js                  | Appwrite                  |
-| Python                 | Node.js                   | Tailwind CSS              |
-| HTML5 & CSS3           | Discord.js                | Bootstrap                 |
-| TypeScript             |                          | Git & GitHub              |
-
-| **Other Expertise**         | **Specialties**                |
-|-----------------------------|--------------------------------|
-| AI Modeling & Training      | Gamification                  |
-| Market Analysis             | Neurodivergence Optimization  |
-| Business Administration     | Web & App Development         |
-
-
-
 ## 🐟 Past Collaborations
 
 | Project | Description |
@@ -65,4 +48,31 @@ Hello, my name is Liam. I am a developer and entrepreneur. I am the CEO at **@Mi
 
 ---
 
-Thank you for exploring my projects! If you’d like to collaborate or chat, feel free to reach out! 😊
+## 🛠️ My Skills
+
+### **Languages**
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?logo=appwrite&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge)
+
+### **Other Skills**
+![AI & Machine Learning](https://img.shields.io/badge/-AI_&_Machine_Learning-9900FF?style=for-the-badge)
+![Business Administration](https://img.shields.io/badge/-Business_Administration-FF6347?style=for-the-badge)
+![Market Analysis](https://img.shields.io/badge/-Market_Analysis-32CD32?style=for-the-badge)
+
+
+Thank you for exploring my profile! If you’d like to collaborate or chat, feel free to reach out! 😊
