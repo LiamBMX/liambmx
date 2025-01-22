@@ -40,6 +40,23 @@ Hello, my name is Liam. I am a developer and entrepreneur. I am the CEO at **@Mi
 
 ---
 
+## 🛠️ My Skills
+
+| **Languages**         | **Frameworks & Libraries** | **Tools & Platforms**     |
+|------------------------|----------------------------|---------------------------|
+| JavaScript (ES6+)      | React.js                  | Appwrite                  |
+| Python                 | Node.js                   | Tailwind CSS              |
+| HTML5 & CSS3           | Discord.js                | Bootstrap                 |
+| TypeScript             |                          | Git & GitHub              |
+
+| **Other Expertise**         | **Specialties**                |
+|-----------------------------|--------------------------------|
+| AI Modeling & Training      | Gamification                  |
+| Market Analysis             | Neurodivergence Optimization  |
+| Business Administration     | Web & App Development         |
+
+
+
 ## 🐟 Past Collaborations
 
 | Project | Description |
