@@ -9,7 +9,7 @@ Hello, my name is Liam. I am a developer and entrepreneur. I am the CEO at **@Mi
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects (Not Ordered)
 
 | Project | Description |
 |---------|-------------|
@@ -19,31 +19,10 @@ Hello, my name is Liam. I am a developer and entrepreneur. I am the CEO at **@Mi
 | 🌐 **Streamer Website Builder** | Open-source tool to build link websites like Linktree—free, watermark-free, and stylish. |
 | 🤖 **OmniBot** | All-in-one Discord bot with AI scanning for harmful content, ensuring user safety. |
 | 📰 **ByteTech** | A blog site powered by AI to deliver the latest tech news before anyone else. |
-
----
-
-## 🎮 Gaming Projects
-
-| Project | Description |
-|---------|-------------|
 | ⛏️ **Minecraft Servers** | Managed servers from 2018–2025, including DiamondMC and ArchevexMC. A foundational journey in entrepreneurship and coding. |
 | 🖥️ **Smaller Coding Projects** | Various collaborative efforts, including private coding projects and website development. |
-
----
-
-## 🛍️ E-Commerce and Recent Ventures
-
-| Project | Description |
-|---------|-------------|
 | 🛍️ **E-Commerce Stores** | Ventures in dropshipping and private labeling, including TrendSurge and ToadTunes. |
 | ⚽ **FanZone** | Sports discussion platform with game-specific chatrooms for real-time debates. |
-
----
-
-## 🐟 Past Collaborations
-
-| Project | Description |
-|---------|-------------|
 | 🎣 **ReelMaster** | Fishing social media app with marketplaces and geo-based fishing maps. Unfortunately discontinued. |
 
 ---
