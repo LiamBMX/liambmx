@@ -13,7 +13,7 @@ Hello, my name is Liam. I am a developer and entrepreneur. I am the CEO at **@Mi
 
 | Project | Description |
 |---------|-------------|
-| 🌱 **MindBloom** | A neurodivergence-focused task management platform, gamifying productivity. Born from NoteNexus, this is my proudest project. |
+| 🌱 **MindBloom** | A neurodivergence-focused task management platform, gamifying productivity. Born from NoteNexus. |
 | ✏️ **Scribbly.lol** | Fun and playful way to quickly jolt down notes without the need of subscriptions, just open the site and write. |
 | 🎥 **RedGen** | Automated faceless portrait videos for TikTok, distributed via a subscription service. |
 | 👻 **SpineShiverProductions** | AI-powered YouTube channel generating horror stories from script to voiceover. |
