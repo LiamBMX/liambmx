@@ -27,7 +27,7 @@ I run a couple things on the side too, like **ARIA**, a personal AI agent I text
 
 Outside of building, I race BMX. In 2025 I was the **#1 ranked 14-year-old in North Carolina**. Four broken collarbones and a cracked tailbone in, and I still can’t really tell you why I love it — I just do.
 
-<img src="./public/photos/bmx/bmx-04-night-portrait.jpg" alt="Liam G Adams at a BMX track at dusk" width="100%" />
+![Liam G Adams at a BMX track at dusk](public/photos/bmx/bmx-04-night-portrait.jpg)
 
 ---
 
